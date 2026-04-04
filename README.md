@@ -28,5 +28,5 @@
 
 ## ⚡**Activity**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SolanoV&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true" alt="SolanoV's GitHub Stats" />
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=solanov&theme=great-gatsby" alt="GitHub Streak" /></a>
 </div>
